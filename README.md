@@ -1,7 +1,9 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7E7F5&width=435&lines=Hi%2C+I'm+Ji+Min%E2%99%A1)](https://git.io/typing-svg)
 
-<!--
-**jimin1324-kim/jimin1324-kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student at Yonsei University Mirae Campus.  
+I can use C and Python.
+
+<!--**jimin1324-kim/jimin1324-kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
